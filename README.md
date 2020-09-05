@@ -1,13 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* CAREYOU: Infomation sharing site for caregivers
 
-Things you may want to cover:
+* Ruby version: 2.7.1
 
-* Ruby version
-
-* System dependencies
+* System dependencies:
 
 * Configuration
 
@@ -21,4 +18,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Lisence: Permz_coding
